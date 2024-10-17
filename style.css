@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li,ul,h1{
+    display: inline;
+}
+ul{
+   margin-left: 70%;
+   
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 60%;
+    padding: 15px;
+    margin: 25px;
+    
+}
+
+.imgtwo{
+    position:absolute;
+    left: 50%;
+    top: 10px;
+}
+.contact{
+    background-color: 
+    black;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+.one{
+    width: 250px;
+
+    height: 250px;
+}
+div.contact:hover{
+    border: solid 5px white;
+    color: gray;
+}
+
+    
